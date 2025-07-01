@@ -62,7 +62,7 @@ The model's performance was rigorously evaluated on the held-out test set. The r
 
 ### Confusion Matrix
 
-![Confusion Matrix](Image/Confusion_matrix.png)
+![Confusion Matrix](Image/Confusion_Matrix.png)
 
 - **Interpretation:** The high values along the diagonal represent the number of correctly classified images for each class. The off-diagonal values are minimal, indicating very few misclassifications. For instance, the model correctly identified 120 instances of "Gum" and 175 instances of "MC".
 
