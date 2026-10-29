@@ -74,7 +74,7 @@ The model's performance was rigorously evaluated on the held-out test set. The r
 
 ### Overall Accuracy
 
-The proposed InceptionResNetV2 model achieved a final accuracy of **99.51%** on the test set.
+The proposed InceptionResNetV2 model achieved a final accuracy of 96.89% (996/1,028 images) on the test set, with a macro F1-score of 0.97.
 
 ## 🛠️ Technology Stack
 
